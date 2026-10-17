@@ -1,0 +1,10 @@
+target/
+build/
+.gradle/
+*.db
+*.sqlite
+*.sqlite3
+.env
+*.log
+.idea/
+*.iml
